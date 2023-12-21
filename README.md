@@ -1,6 +1,5 @@
 Online Judge :
-Get all items 
-OJ	      Link
+
 UVA	-> https://onlinejudge.org/
 AtCoder	-> https://atcoder.jp/
 LightOJ	-> https://lightoj.com/
